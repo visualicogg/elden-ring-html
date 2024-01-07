@@ -1,0 +1,29 @@
+h1{
+	font-size: 30px;
+	color: darkblue;
+}
+
+h2{
+	color: darkolivegreen;
+	font-size: 20px;
+}
+
+h2{
+	color: darkgoldenrod;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: blueviolet;
+}
+
+h1 span{
+	color: green;
+}
